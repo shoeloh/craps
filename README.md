@@ -2,7 +2,7 @@
 This program is a simulation of the game of craps. 
 It also tests 3 different craps strategies: 
 Even wager, Martingale, Reverse Martingale 
-
+ 
 Program was written in R
 
 ## COMPILING, INSTALLATION AND RUNNING
