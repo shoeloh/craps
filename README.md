@@ -18,5 +18,5 @@ In intial trials, starting with $1000 and averaged over the 5 rounds, all strate
 Best strategy was to not play.
 
 ## LICENSE 
-[Apache 2.0 License](https://github.com/shoeloh/craps/blob/master/LICENSE)
+[MIT License](https://github.com/shoeloh/craps/blob/master/LICENSE)
 
